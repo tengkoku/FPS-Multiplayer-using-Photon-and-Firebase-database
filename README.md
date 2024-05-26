@@ -10,3 +10,6 @@ First Person Shooter multiplayer using Photon's PUN.
  resolved and the Firebase app is ready to use. Finally, configure the Firebase Realtime Database to set
  the URL for the Realtime Database. This integration enables us to utilize Firebase services, such as
  the Realtime Database, within the game.
+
+
+Disclaimer: FirstPersonController.cs and Gun.cs is not mine. There is a tutorial on youtube (I forgot)
